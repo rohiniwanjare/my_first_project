@@ -11,9 +11,6 @@ int main(){
     arr.push_back(7);
     arr.push_back(2);
 
-    //print 
-    for(int ele : arr){
-        cout<<ele<<" ";
-    }
+   
 
 }
